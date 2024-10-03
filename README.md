@@ -1,3 +1,6 @@
+# ARCHIVED
+This repository is archaived. New version of Melinda cyrillux ui can be found [here](https://github.com/NatLibFi/melinda-ui-cyrillux)
+
 # UI for transliterating MARC records in Melinda [![Build Status](https://travis-ci.org/NatLibFi/marc-merge-ui.svg?branch=master)](https://travis-ci.org/NatLibFi/melinda-cyrillux)
 ## Building the application
 
